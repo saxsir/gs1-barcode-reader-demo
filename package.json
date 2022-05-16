@@ -1,0 +1,9 @@
+{
+  "name": "gs1-barcode-reader-demo",
+  "private": true,
+  "engines": {
+    "node": "16.x",
+    "npm": "8.x"
+  },
+  "scripts": {}
+}
