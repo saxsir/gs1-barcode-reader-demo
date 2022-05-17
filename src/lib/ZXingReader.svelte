@@ -76,8 +76,11 @@
     </select>
   </div>
 
-  <label>Result:</label>
-  <pre><code id="result"></code></pre>
+  <div>
+    <label>Result: </label>
+    <div class="alert alert-success" role="alert" id="result">
+  </div>
+  </div>
 </div>
 
 <style>
