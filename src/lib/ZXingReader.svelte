@@ -59,7 +59,7 @@
 </script>
 
 <div>
-  <h1 class="title">Scan 1D/2D Code from Video Camera</h1>
+  <h2 class="title">Scan 1D/2D Code from Video Camera</h2>
 
   <div>
     <button type="button" class="btn btn-primary" id="startButton">Start</button>
@@ -67,7 +67,7 @@
   </div>
 
   <div class="border">
-    <video class="embed-responsive embed-responsive-4by3" id="video"></video>
+    <video class="mw-100" id="video"></video>
   </div>
 
   <div id="sourceSelectPanel" style="display:none">
