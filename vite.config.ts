@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: 'docs',
   },
+  base: '/gs1-barcode-reader-demo/',
 })
